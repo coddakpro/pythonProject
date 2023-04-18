@@ -12,6 +12,7 @@ while count < 5:
     elif number_input_int < smallest_number_int:
         smallest_number_int = number_input_int
 
+
     count += 1
 
 print("second_largest", second_largest_number)
